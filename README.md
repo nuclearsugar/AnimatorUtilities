@@ -25,3 +25,6 @@ Especially useful when adjusting timings between two versions of the animatic an
 Most useful for estimating the min/max time until the render is complete. Which is especially important if you’re worried about bottlenecking your farm and need to prioritize for deadlines.
 
 ![Estimate Job Render Time on a Farm](https://thefulldomeblog.files.wordpress.com/2016/03/estimate-render-time.gif)
+
+###More info
+https://thefulldomeblog.com/2016/03/25/utilities-for-converting-timecode-frames/
