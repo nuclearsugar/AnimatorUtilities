@@ -4,6 +4,7 @@ This is a collection of Pure Data patches to convert between timecode/frames, ca
 I created these tools to simplify my workflow when creating 3D animation scenes in Maya and After Effects. So these tools use a frame rate of 30fps for their conversions. But the patches can be edited to work at other frame rates, should you need.
 
 ###Requires use of Pd-Extended
+It's free and open source. Available for Mac, Windows, & Linux.<br>
 http://puredata.info/downloads/pd-extended/releases/0.43.4
 
 -----
